@@ -13,6 +13,10 @@
 # (including a few tricky ones if you want) and/or take some from popular movie reivew websites. Put them in a folder just like the acllmdb/test folder. 
 
 # Task 2: 
+# Train at least two differnt BERT fine-tuning models. They could differ in the classification architecture (e.g. the alternate model from the slides),
+# number of traning examples, number of epochs, BERT's cased vs. uncased models, two differnt BERT models, etc. After training, evaluate each model on 
+# test data from aclImdb (use same number of test examples for evaluting each model). Next, evaluate each model on your samll test dataset. Also look at
+# the models' predictions on your small dataset. 
 
 # Submit: 
 # 1. Report: Write a report in which you include: 
